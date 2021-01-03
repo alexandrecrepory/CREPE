@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map Ultrasonic
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Robo	KEYWORD1
+Motor	KEYWORD1
+SensorDistancia	KEYWORD1
+SensorToque	KEYWORD1
+SensorDirecao	KEYWORD1
+SensorLinha	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+IrFrente	KEYWORD2
+IrTras	KEYWORD2
+Parar	KEYWORD2
+GirarDireita	KEYWORD2
+GirarEsquerda	KEYWORD2
+Ler	KEYWORD2
+LerA	KEYWORD2
+LerB	KEYWORD2
+LerAcX	KEYWORD2
+LerAcY	KEYWORD2
+LerAcZ	KEYWORD2
+LerGrX	KEYWORD2
+LerGrY	KEYWORD2
+LerGrZ	KEYWORD2
+LerBotao	KEYWORD2
+TocarSom	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+A	LITERAL1
+B	LITERAL1
+AB	LITERAL1
